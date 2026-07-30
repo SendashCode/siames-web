@@ -5,7 +5,7 @@ image: '/imagenes/DSCF4767.JPG'
 excerpt: 'Descubre cómo Ana documentó su viaje por Japón utilizando el cuaderno formato Pocket.'
 ---
 
-El formato Pocket de Siames fue diseñado precisamente para momentos como este. Ana decidió llevar solo lo esencial en su viaje a Kyoto: una cámara, una pluma estilográfica y su cuaderno Siames en color Tabaco.
+El formato Pocket de siamés fue diseñado precisamente para momentos como este. Ana decidió llevar solo lo esencial en su viaje a Kyoto: una cámara, una pluma estilográfica y su cuaderno siamés en color Tabaco.
 
 ## La importancia del papel
 

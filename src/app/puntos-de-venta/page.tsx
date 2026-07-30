@@ -3,7 +3,7 @@ export default function PuntosDeVenta() {
     <div className="py-20 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto flex-grow flex flex-col">
       <h1 className="font-serif text-5xl mb-6 text-center">Puntos de Venta</h1>
       <p className="text-center text-muted-foreground mb-16 max-w-2xl mx-auto">
-        Encuentra los cuadernos Siames en nuestras tiendas aliadas en la Ciudad de México y descubre su textura en persona.
+        Encuentra los cuadernos siamés en nuestras tiendas aliadas en la Ciudad de México y descubre su textura en persona.
       </p>
 
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 flex-grow">

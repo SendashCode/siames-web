@@ -9,7 +9,7 @@ export default function Usos() {
       <div className="text-center mb-16">
         <h1 className="font-serif text-5xl mb-6">Usos</h1>
         <p className="text-muted-foreground max-w-2xl mx-auto">
-          Descubre cómo nuestra comunidad utiliza sus cuadernos Siames en su día a día. Diarios, bocetos y más.
+          Descubre cómo nuestra comunidad utiliza sus cuadernos siamés en su día a día. Diarios, bocetos y más.
         </p>
       </div>
 

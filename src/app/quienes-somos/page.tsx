@@ -26,7 +26,7 @@ export default function QuienesSomos() {
         </p>
 
         <div className="my-16 py-8 border-y border-muted text-center">
-          <span className="block uppercase tracking-widest text-xs font-semibold text-foreground/50 mb-4">El fundador</span>
+          <span className="block uppercase tracking-widest text-xs font-semibold text-foreground/50 mb-4">La fundadora</span>
           <p className="italic font-serif text-xl text-foreground">
             Jaque Jours
           </p>

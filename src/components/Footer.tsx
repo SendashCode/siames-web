@@ -7,7 +7,7 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col md:flex-row justify-between items-center gap-6">
         
         <div className="flex flex-col items-center md:items-start">
-          <span className="font-serif text-2xl tracking-widest mb-2">SIAMES</span>
+          <span className="font-serif text-2xl tracking-widest mb-2">siamés</span>
           <p className="text-muted-foreground text-sm max-w-xs text-center md:text-left">
             Cuadernos artesanales hechos en México con papel premium. Minimalismo y textura para tus ideas.
           </p>
@@ -32,7 +32,7 @@ export default function Footer() {
       
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-8 pt-8 border-t border-muted/20 text-center">
         <p className="text-muted-foreground text-xs">
-          &copy; {new Date().getFullYear()} Siames. Todos los derechos reservados.
+          &copy; {new Date().getFullYear()} siamés. Todos los derechos reservados.
         </p>
       </div>
     </footer>

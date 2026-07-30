@@ -16,7 +16,7 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "Siames | Cuadernos Artesanales",
+  title: "siamés | Cuadernos Artesanales",
   description: "Cuadernos artesanales hechos en la Ciudad de México.",
 };
 

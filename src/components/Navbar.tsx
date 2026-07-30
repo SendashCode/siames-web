@@ -22,7 +22,7 @@ export default function Navbar() {
         <div className="flex justify-between h-20 items-center">
           <div className="flex-shrink-0 flex items-center">
             <Link href="/" className="font-serif text-2xl tracking-widest text-foreground hover:text-accent transition-colors">
-              SIAMES
+              siamés
             </Link>
           </div>
           
